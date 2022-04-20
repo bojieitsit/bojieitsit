@@ -1,4 +1,3 @@
-![Header](https://github.com/bojieitsit/bojieitsit/blob/main/assets/original.gif)
 
 About me
 
