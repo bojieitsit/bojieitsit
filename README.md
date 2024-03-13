@@ -8,7 +8,7 @@ iOS Developer
 "There is always one more bug to fix" – Ellen Ullman
 
 * 🌍  I'm based in Samara, Russia
-* ✉️  You can contact me at [closers_cot.0a@icloud.com](mailto:closers_cot.0a@icloud.com)
+* ✉️  You can contact me at [bojieitsit@icloud.com](mailto:bojieitsit@icloud.com)
 * 🧠  I'm learning SwiftUI & SwiftData
 * ⚡  To code, or not to code?
 
