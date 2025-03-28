@@ -8,4 +8,4 @@ iOS Developer
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [bojieitsit@icloud.com](mailto:bojieitsit@icloud.com)
 
-![GitHub Snake](https://github.com/awesome-dev/awesome-dev/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/bojieitsit/bojieitsit/blob/output/github-contribution-grid-snake.svg)
