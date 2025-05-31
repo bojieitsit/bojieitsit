@@ -6,7 +6,7 @@ iOS Developer
 -------------
  
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [bojieitsit@icloud.com](mailto:bojieitsit@icloud.com)
+* ✉️  You can contact me at [bojieitsit@icloud.com](mailto:bojieitsit@iosdeveloper.uk)
 * ⏰  My App on the App Store - [link](https://apps.apple.com/app/study-timer-pomodoro-focus/id6745689760)
 
 <picture>
