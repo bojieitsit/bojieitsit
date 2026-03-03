@@ -6,7 +6,7 @@ iOS Developer
 -------------
  
 * ✉️  You can contact me at [bojieitsit@iosdeveloper.uk](mailto:bojieitsit@iosdeveloper.uk)
-* ⏰  My App on the App Store - [link](https://apps.apple.com/app/study-timer-pomodoro-focus/id6745689760)
+* ⏰  My Apps on the App Store - [link](https://apps.apple.com/us/developer/andrei-bogoslovskii/id1813352935)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bojieitsit/bojieitsit/blob/output/dist/github-contribution-grid-snake-dark.svg" />
