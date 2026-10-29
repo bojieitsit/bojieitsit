@@ -23,7 +23,7 @@ My apps
   </tr>
   <tr>
     <td><a href="https://iosdeveloper.uk/vela/"><img src="assets/vela.png" width="72" alt="Vela" /></a></td>
-    <td><b><a href="https://iosdeveloper.uk/vela/">Vela: Baby Monitor</a></b> <sub>coming soon</sub><br />Turns a spare iPhone into a baby monitor: live video and sound on home Wi-Fi, free with no account.</td>
+    <td><b><a href="https://iosdeveloper.uk/vela/">Vela: Baby Monitor</a></b> <sub>new</sub><br />Turns a spare iPhone into a baby monitor: live video and sound on home Wi-Fi, free with no account.</td>
   </tr>
 </table>
 
