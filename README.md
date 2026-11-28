@@ -25,6 +25,10 @@ My apps
     <td><a href="https://iosdeveloper.uk/vela/"><img src="assets/vela.png" width="72" alt="Vela" /></a></td>
     <td><b><a href="https://iosdeveloper.uk/vela/">Vela: Baby Monitor</a></b> <sub>new</sub><br />Turns a spare iPhone into a baby monitor: live video and sound on home Wi-Fi, free with no account.</td>
   </tr>
+  <tr>
+    <td><a href="https://apps.apple.com/us/app/meal-planner-teglia/id6837819982"><img src="assets/teglia.png" width="72" alt="Teglia" /></a></td>
+    <td><b><a href="https://apps.apple.com/us/app/meal-planner-teglia/id6837819982">Meal Planner: Teglia</a></b> <sub>new</sub><br />Plan a week of dinners with step-by-step recipes and a grocery list.</td>
+  </tr>
 </table>
 
 Stack
