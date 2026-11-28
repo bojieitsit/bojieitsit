@@ -10,24 +10,24 @@ My apps
 
 <table>
   <tr>
-    <td width="88"><a href="https://iosdeveloper.uk/spy/"><img src="assets/spy.png" width="72" alt="Spy & Imposter" /></a></td>
-    <td><b><a href="https://iosdeveloper.uk/spy/">Spy & Imposter: Party Game</a></b><br />A pass-the-phone party game: everyone knows the location except the spy. 6 modes, 260+ locations, works offline, no ads.</td>
+    <td><a href="https://apps.apple.com/us/app/meal-planner-teglia/id6837819982"><img src="assets/teglia.png" width="72" alt="Teglia" /></a></td>
+    <td><b><a href="https://apps.apple.com/us/app/meal-planner-teglia/id6837819982">Meal Planner: Teglia</a></b><br />Plan a week of dinners with step-by-step recipes and a grocery list.</td>
+  </tr>
+  <tr>
+    <td><a href="https://iosdeveloper.uk/vela/"><img src="assets/vela.png" width="72" alt="Vela" /></a></td>
+    <td><b><a href="https://iosdeveloper.uk/vela/">Vela: Baby Monitor</a></b><br />Turns a spare iPhone into a baby monitor: live video and sound on home Wi-Fi, free with no account.</td>
   </tr>
   <tr>
     <td><a href="https://iosdeveloper.uk/lumora/"><img src="assets/lumora.png" width="72" alt="Lumora" /></a></td>
     <td><b><a href="https://iosdeveloper.uk/lumora/">Lumora: Wallpaper Studio</a></b><br />Wallpapers generated live on the iPhone with Metal shaders — 27 styles, every setting a slider, live wallpapers for the Lock Screen.</td>
   </tr>
   <tr>
+    <td width="88"><a href="https://iosdeveloper.uk/spy/"><img src="assets/spy.png" width="72" alt="Spy & Imposter" /></a></td>
+    <td><b><a href="https://iosdeveloper.uk/spy/">Spy & Imposter: Party Game</a></b><br />A pass-the-phone party game: everyone knows the location except the spy. 6 modes, 260+ locations, works offline, no ads.</td>
+  </tr>
+  <tr>
     <td><a href="https://iosdeveloper.uk/focus/"><img src="assets/focus.png" width="72" alt="Focus Timer" /></a></td>
     <td><b><a href="https://iosdeveloper.uk/focus/">Focus Timer: Pomodoro Blocker</a></b><br />A Pomodoro timer and Screen Time app blocker in one, with Sandy the hourglass, Live Activity, widgets and a floating timer.</td>
-  </tr>
-  <tr>
-    <td><a href="https://iosdeveloper.uk/vela/"><img src="assets/vela.png" width="72" alt="Vela" /></a></td>
-    <td><b><a href="https://iosdeveloper.uk/vela/">Vela: Baby Monitor</a></b> <sub>new</sub><br />Turns a spare iPhone into a baby monitor: live video and sound on home Wi-Fi, free with no account.</td>
-  </tr>
-  <tr>
-    <td><a href="https://apps.apple.com/us/app/meal-planner-teglia/id6837819982"><img src="assets/teglia.png" width="72" alt="Teglia" /></a></td>
-    <td><b><a href="https://apps.apple.com/us/app/meal-planner-teglia/id6837819982">Meal Planner: Teglia</a></b> <sub>new</sub><br />Plan a week of dinners with step-by-step recipes and a grocery list.</td>
   </tr>
 </table>
 
